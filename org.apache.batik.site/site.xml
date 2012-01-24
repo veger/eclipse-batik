@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.apache.batik_1.7.0.jar" id="org.apache.batik" version="1.7.0">
+      <category name="org.apache.batik"/>
+   </feature>
+   <category-def name="org.apache.batik" label="Batik">
+      <description>
+         Provide Batik library to Eclipse
+      </description>
+   </category-def>
+</site>
