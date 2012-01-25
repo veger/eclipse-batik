@@ -1,0 +1,19 @@
+__NOTOC__
+== Eclipse Batik ==
+This Eclipse plugin provides the batik library for Eclipse, so it can be used by other Eclise plugins.
+
+== Installation ==
+
+An update site is provided to the install the imageexport plugin.
+Follow these steps for easy installation:
+* Open ''Instal New Software'' dialog (Help &rarr; Install New Software...)
+* ''Add'' a new update site
+** Fill in any ''name'' (eg ''Eclipse Batik'')
+** Fill http://veger.github.com/eclipse-batik in the ''location'' field
+* Select the newly created location
+* Select at least ''Eclipse GEF ImageExport Plugin'' and eventually other plugin to get additional image formats
+* Finish the installation by clicking ''Next'' a couple of times (and accepting the license)
+
+== License ==
+Batik is [http://xmlgraphics.apache.org/batik/license.html licensed] according to the Apache License, Version 2.0
+
