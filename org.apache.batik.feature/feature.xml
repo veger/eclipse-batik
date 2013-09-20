@@ -2,7 +2,7 @@
 <feature
       id="org.apache.batik"
       label="Batik"
-      version="1.7.0">
+      version="1.7.0.201309201134">
 
    <description>
       Batik library for Eclipse
@@ -237,6 +237,6 @@ This product includes images from the Pasodoble Icon Theme
          id="org.apache.batik"
          download-size="0"
          install-size="0"
-         version="1.7.0"/>
+         version="0.0.0"/>
 
 </feature>
