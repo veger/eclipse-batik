@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Batik
 Bundle-SymbolicName: org.apache.batik
-Bundle-Version: 1.7.0
+Bundle-Version: 1.7.0.201309201134
 Bundle-ClassPath: libs/batik.jar
 Export-Package: org.apache.batik,
  org.apache.batik.anim,
@@ -38,9 +38,7 @@ Export-Package: org.apache.batik,
  org.apache.batik.ext.awt.geom,
  org.apache.batik.ext.awt.image,
  org.apache.batik.ext.awt.image.codec.imageio,
- org.apache.batik.ext.awt.image.codec.jpeg,
  org.apache.batik.ext.awt.image.codec.png,
- org.apache.batik.ext.awt.image.codec.tiff,
  org.apache.batik.ext.awt.image.codec.util,
  org.apache.batik.ext.awt.image.renderable,
  org.apache.batik.ext.awt.image.rendered,
